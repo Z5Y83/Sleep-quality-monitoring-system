@@ -12,7 +12,13 @@ Our project utilizes an infrared camera to capture the subject's sleeping postur
   This project is based on openpose, so you need to install openpose.  
   When openpose is installed, please follow this step.  
   1. use anaconda prompt or cmd to activate openpose enviroment
-  2. pip install -r requirements.txt  
+  2. pip install -r requirements.txt
+
+# Run test  
+  This project has some problems and bugs, this is how we run this project.  
+  1. open 2 anaconda prompt or cmd to activate openpose environment
+  2. 1 command window type `python final.py`(run openpose)
+  3. When openpose starts running, another command window type `python tkfinal.py`(run GUI)
 
 # FILE
   |- openpose -> final.py  
