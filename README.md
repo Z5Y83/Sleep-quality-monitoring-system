@@ -1,7 +1,7 @@
 # Sleep-quality-monitoring-system
 
 This undergraduate senior project is from the Department of Communication Engineering, Feng Chia University(Taichung, Taiwan)  
-Made by 林郁全、陳妤萱、黃聿莛、梁芷瑄、王佩瑄  
+Made by 林郁全、陳妤萱、王佩瑄、黃聿莛、梁芷瑄
 
 # Abstract  
 Modern work stress has led people to increasingly prioritize sleep issues. According to a 2019 survey by the Taiwan Sleep Medicine Association, 60% of respondents reported snoring problems. Snoring is closely associated with sleep apnea and other cardiovascular diseases. Many individuals are unaware of their sleep problems, prompting us to develop a solution that allows people to monitor their sleep at home. Through our product, users can track their sleeping posture, blood oxygen levels, respiratory rate, and snoring detection, providing preliminary insights into their sleep issues. Additionally, it can be used as a reference for diagnostic assistance.
